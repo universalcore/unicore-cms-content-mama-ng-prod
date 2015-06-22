@@ -1,0 +1,35 @@
+{
+  "subtitle": "Make sure you are both OK", 
+  "description": "Make sure you are both OK", 
+  "language": "eng_GB", 
+  "title": "Check-ups after birth", 
+  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "created_at": "2015-04-23T11:30:17+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-27T13:34:14.709734+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "dfcf1d107b15467bb7a09c70cb623ec8", 
+    "80c0188fd53e475bbf0b2ce81421b431", 
+    "0fedd4aa09d144218f781c308c3ae800", 
+    "622f564823e748c4bc85ae148ffefb9b", 
+    "a58c6eca5c73415c9468a2a015470ef5"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nIt is good, and reassuring, to have health check-ups in the weeks after your baby is born, to make sure both you and your baby are OK. Remember, boys and girls need the same amount of check-ups.\r\n\r\nVisit the healthcare provider with your baby at least once during week 1 and again when she is 6 weeks old. \r\n\r\nTake your baby to a healthcare provider immediately if:\r\n\r\n\u2022\tHer belly is too cold or too hot\r\n\r\n\u2022\tShe develops yellow eyes, hands and feet within the first day of her life\r\n\r\n\u2022\tShe refuses to feed or sucks poorly\r\n\r\n\u2022\tShe will not stop crying or if her cry sounds unusual\r\n\r\n\u2022\tShe has a fit, is drowsy and not moving much, or has bluish skin or nails\r\n\r\n\u2022\tShe is wheezing, grunting, or breathing quickly \r\n\r\n\u2022\tShe is vomiting after every feed for more than a day, or has a swollen tummy\r\n\r\n\u2022\tThe area around your baby's cord stump is red or smelly\r\n\r\nThese are signs that your baby is unwell, and needs treatment quickly.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 33, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "check-ups-after-birth", 
+  "uuid": "f0750816cb9e46549d10c396e99d2b40"
+}

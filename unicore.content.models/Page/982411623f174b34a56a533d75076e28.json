@@ -1,0 +1,37 @@
+{
+  "subtitle": "Eat more to grow a healthy baby", 
+  "description": "Eat more to grow a healthy baby", 
+  "language": "eng_GB", 
+  "title": "Do I need to eat more?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-04-23T10:32:58+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-27T11:51:31.254773+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "766f19eeff9e4663a95183eb3f6e2f21", 
+    "959ca4e1bdd04e0c853a13e3e24ae236", 
+    "b7799314fe56407d8dde0e77d2e86a4f", 
+    "c33b483d4b1440a2963d358214ab19bd", 
+    "804855bdbec0457ebf66afa2bdab7c85", 
+    "0aded56eaff94ec9b975d0fbce78030b", 
+    "8985a8abd7c542ce9a00d9745b856811"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nThe best rule to remember is to try to eat when you are hungry. Try to eat a mixture of different types of foods every day and you will gain weight steadily as your baby grows.\r\n\r\nYou may find that your appetite changes throughout your pregnancy:\r\n\r\n\u2022\tIn the first few weeks, your appetite may decrease and you may not feel like eating proper meals, especially if you are nauseous or are vomiting. During the middle part of your pregnancy, your appetite may be the same as before you were pregnant or it may be slightly increased.\r\n\r\n\u2022\tTowards the end of your pregnancy, your appetite will probably increase. Eat fruit, vegetables, bean cake/pudding, eggs and meat. Explain to your family that you need more food to grow a healthy baby. Ask them if you can buy more of these foods. You need an extra handful of food with each meal. You may also need a small snack between meals.\r\n\r\nYou may start craving certain foods. Some pregnant women crave non-foods such as soil. Eating soil or other non-foods can be harmful to you and your baby. Do not eat them. Soil can cause constipation or give you worms.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 64, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "do-i-need-eat-more", 
+  "uuid": "982411623f174b34a56a533d75076e28"
+}

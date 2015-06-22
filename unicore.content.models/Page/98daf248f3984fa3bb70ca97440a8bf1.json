@@ -1,0 +1,32 @@
+{
+  "subtitle": "Stay clean to fight germs ", 
+  "description": "Stay clean to fight germs ", 
+  "language": "eng_GB", 
+  "title": "Can I prevent infections?", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-04-23T10:23:36+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-27T11:43:00.800017+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "9def02f338474b9d9a1940c3565a0d25", 
+    "0b5e815f44e04e78b0b7766f21708ea1"
+  ], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nIt is important to be clean, especially when you are pregnant. Being clean protects you from germs, which cause infections. This reduces your risk of catching infections. \r\n\r\nHere is how you can make sure you stay clean:\r\n\r\n\u2022\tWash your hands with soap and clean, safe water. This is an easy way to stop the germs that cause diarrhoea. Wash your hands when you come home, before cooking and eating, after using the toilet and after dealing with animals. You need clean, safe water and soap. Make sure that you wash your wrists, hands and nails. Wash the soap off your hands with clean, safe water. \r\n\r\n\u2022\tEvery time you use the toilet, clean yourself well. Wash yourself from front to back. Wash your hands with soap and clean, safe water soon after.\r\n\r\n\u2022\tWear cotton underwear that lets your skin breathe. And drink lots of clean, safe water. This will help prevent infections in your urine.\r\n\r\n\u2022\tWash your whole body often. Regular bathing will keep you healthy and less prone to illness.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 76, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "can-i-prevent-infections", 
+  "uuid": "98daf248f3984fa3bb70ca97440a8bf1"
+}
